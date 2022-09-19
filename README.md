@@ -3,3 +3,5 @@
 **Квадратное уравнение с 2-мя разметками:**
 
 ![Screenshot](screenshot.png)
+![Screenshot](screenshot2.png)
+
